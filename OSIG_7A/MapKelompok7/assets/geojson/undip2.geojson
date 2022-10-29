@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "undip2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OID": 7, "Nama_Gym": "Elise Ladies Gym", "FolderPath": "gym", "Jarak_Gym": 5085, "Harga_Gym": 150000, "Waktu_Gym": 8, "Jam_Operasional_Gym": "20:00:00" }, "geometry": { "type": "Point", "coordinates": [ 110.415395900000078, -7.065451899999971, 0.0 ] } },
+{ "type": "Feature", "properties": { "OID": 4, "Nama_Gym": "Fitsoul Gym Fitness Center", "FolderPath": "gym", "Jarak_Gym": 6943, "Harga_Gym": 100000, "Waktu_Gym": 10, "Jam_Operasional_Gym": "21:00:00" }, "geometry": { "type": "Point", "coordinates": [ 110.421264500000063, -7.075573199999951, 0.0 ] } },
+{ "type": "Feature", "properties": { "OID": 2, "Nama_Gym": "Summit Gym", "FolderPath": "gym", "Jarak_Gym": 7558, "Harga_Gym": 125000, "Waktu_Gym": 11, "Jam_Operasional_Gym": "21:00:00" }, "geometry": { "type": "Point", "coordinates": [ 110.420336300000088, -7.081399499999975, 0.0 ] } },
+{ "type": "Feature", "properties": { "OID": 9, "Nama_Gym": "Oryza Gym", "FolderPath": "gym", "Jarak_Gym": 3347, "Harga_Gym": 150000, "Waktu_Gym": 5, "Jam_Operasional_Gym": "21:00:00" }, "geometry": { "type": "Point", "coordinates": [ 110.416768600000069, -7.05141569999995, 0.0 ] } },
+{ "type": "Feature", "properties": { "OID": 3, "Nama_Gym": "Army gym semarang", "FolderPath": "gym", "Jarak_Gym": 7240, "Harga_Gym": 150000, "Waktu_Gym": 11, "Jam_Operasional_Gym": "21:00:00" }, "geometry": { "type": "Point", "coordinates": [ 110.420990800000084, -7.07873879999994, 0.0 ] } },
+{ "type": "Feature", "properties": { "OID": 5, "Nama_Gym": "Arrow Gym", "FolderPath": "gym", "Jarak_Gym": 6221, "Harga_Gym": 150000, "Waktu_Gym": 9, "Jam_Operasional_Gym": "21:00:00" }, "geometry": { "type": "Point", "coordinates": [ 110.407254600000044, -7.02895019999994, 0.0 ] } },
+{ "type": "Feature", "properties": { "OID": 7, "Nama_Gym": "DN Gym", "FolderPath": "gym", "Jarak_Gym": 9950, "Harga_Gym": 100000, "Waktu_Gym": 15, "Jam_Operasional_Gym": "21:00:00" }, "geometry": { "type": "Point", "coordinates": [ 110.412401200000033, -7.106393, 0.0 ] } },
+{ "type": "Feature", "properties": { "OID": 6, "Nama_Gym": "Mountainleaf Health Resort", "FolderPath": "gym", "Jarak_Gym": 5811, "Harga_Gym": 100000, "Waktu_Gym": 9, "Jam_Operasional_Gym": "21:00:00" }, "geometry": { "type": "Point", "coordinates": [ 110.433755300000087, -7.062913199999969, 0.0 ] } },
+{ "type": "Feature", "properties": { "OID": 8, "Nama_Gym": "BOS FITNES SEMARANG", "FolderPath": "gym", "Jarak_Gym": 4773, "Harga_Gym": 200000, "Waktu_Gym": 7, "Jam_Operasional_Gym": "22:00:00" }, "geometry": { "type": "Point", "coordinates": [ 110.416513100000088, -7.033670799999925, 0.0 ] } },
+{ "type": "Feature", "properties": { "OID": 10, "Nama_Gym": "Urban Futsal & UrbanFit Fitness", "FolderPath": "gym", "Jarak_Gym": 1915, "Harga_Gym": 190000, "Waktu_Gym": 3, "Jam_Operasional_Gym": "22:00:00" }, "geometry": { "type": "Point", "coordinates": [ 110.431988100000069, -7.051652399999966, 0.0 ] } }
+]
+}
